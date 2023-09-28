@@ -1,2 +1,3 @@
 Hello my first file to git
 Ahoj
+It's Me Ales I am tryin to learn programing so my life is not as miserable
